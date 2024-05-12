@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de Análise e Desenvolvimento de Sistemas<br>👯 Atualmente estudando Front End<br>🤝 Estou a procura de estagio<br>
+🔭 Análise e Desenvolvimento de Sistemas<br>👯 DEV Front End<br>
 
 
 ## 🌐 Socials:
