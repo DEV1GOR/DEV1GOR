@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Análise e Desenvolvimento de Sistemas<br>👯 DEV Front End<br>
+🔭 Análise e Desenvolvimento de Sistemas<br>👯 DEV Full<br>
 
 
 ## 🌐 Socials:
