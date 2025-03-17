@@ -20,6 +20,6 @@
     <img align="center" alt="db" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div><br>
 
-**Apaixonado por tecnologia e educação, sempre explorando novas soluções e compartilhando conhecimento**
+**Apaixonado por tecnologia e educação, sempre explorando novas soluções e compartilhando conhecimento.**
 
 
